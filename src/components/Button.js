@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
         width: (Dimensions.get('window').width / 4) * 2,
     },
     buttonTriple: {
-        width: (Dimensions.get('window').width / 4) * 3,
+        width: (Dimensions.get('window').width / 4) * 2.999,
     }
 })
 
